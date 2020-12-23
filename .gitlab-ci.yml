@@ -6,7 +6,7 @@ image: martisak/texlive2020
 
 build:
   script:
-    - latexmk -pdf
+    - latexmk -pdf -xelatex
   artifacts:
     paths:
       - "*.pdf"
