@@ -33,7 +33,7 @@
 \RequirePackage[table,dvipsnames]{xcolor}
 
 % hyperref setting
-\RequirePackage[a-1b]{pdfx}
+% \RequirePackage[a-1b]{pdfx}
 \RequirePackage{hyperref}
 \hypersetup{
   unicode,
@@ -172,9 +172,9 @@
 \fancyhf{}
 \renewcommand{\headrulewidth}{0pt}
 \fancyhfoffset[l]{\dimexpr\Gm@lmargin-\Gm@rmargin\relax}
-\fancyfoot[L]{\textcolor{Gray}{\@date}}
-\fancyfoot[C]{\textcolor{Gray}{\@shortname~~~$\cdot$~~~Resume}}
-\fancyfoot[R]{\textcolor{Gray}{\thepage}}
+% \fancyfoot[L]{\textcolor{Gray}{\@date}}
+% \fancyfoot[C]{\textcolor{Gray}{\@shortname~~~$\cdot$~~~Resume}}
+% \fancyfoot[R]{\textcolor{Gray}{\thepage}}
 
 % Publication
 \RequirePackage[
