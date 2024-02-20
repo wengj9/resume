@@ -1,0 +1,144 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/jskherman/cv.typ/main/cv.typ.schema.json
+
+personal:
+  name: James Weng
+  email: contact@jamesweng.com
+  phone: +1 (917) 838-6225
+  url: https://jamesweng.com
+  location:
+    city: San Francisco
+    region: California
+    postalCode:
+    country: USA
+  profiles:
+    - network: LinkedIn
+      username: James Weng
+      url: https://linkedin.com/in/wengjames
+    - network: GitHub
+      username: wengj9
+      url: https://github.com/wengj9
+
+work:
+  - organization: Observe, Inc.
+    url: https://observeinc.com
+    location: San Mateo, CA
+    positions:
+      - position: Software Engineer
+        startDate: 2024-02-12
+        endDate: "present"
+        highlights:
+          - Working on Observe, a new way of doing cloud observability
+  - organization: Luminary Cloud
+    url: https://luminarycloud.com
+    location: San Mateo, CA
+    positions:
+      - position: Software Engineer
+        startDate: 2023-08-07
+        endDate: 2024-02-09
+        highlights:
+          - Architected and prototyped new compute orchestration framework, reducing job allocation times by up to 50%
+          - Assisted other teams with backend integration
+  - organization: Sutter Hill Ventures
+    url: https://shv.com
+    location: Palo Alto, CA
+    positions:
+      - position: Codepoint Fellow
+        startDate: 2023-08-07
+        endDate: "present"
+        highlights:
+          - Rotational program at two SHV portfolio companies
+  - organization: University of Michigan
+    url: https://cse.umich.edu
+    location: Ann Arbor, MI
+    positions:
+      - position: Graduate Student Instructor
+        startDate: 2022-01-04
+        endDate: 2023-04-30
+        highlights:
+          - Taught Operating Systems (EECS 482) in the Fall 2022, Winter 2023 terms
+          - Taught Intro Programming (EECS 280) in the Winter 2022 term
+      - position: Instructional Aide
+        startDate: 2021-08-30
+        endDate: 2021-12-22
+        highlights:
+          - Taught Operating Systems (EECS 482) in the Fall 2021 term
+  - organization: Snap Inc.
+    url: https://snap.com
+    location: Santa Monica, CA
+    positions:
+      - position: Software Engineering Intern
+        startDate: 2022-05-16
+        endDate: 2022-08-19
+        highlights:
+          - Created new chart types for Mercury, Snap's data visualization tool, increasing dashbord usage by 15%
+  - organization: Amazon Web Services
+    url: https://aws.amazon.com
+    location: Remote / New York, NY
+    positions:
+      - position: Software Development Intern
+        startDate: 2021-05-17
+        endDate: 2021-08-16
+        highlights:
+          - Designed and created backend to calculate, store, and display frequency metadata for AWS Data Exchange (ADX) products
+      - position: Software Development Intern
+        startDate: 2020-06-08
+        endDate: 2020-08-29
+        highlights:
+          - Designed, built, and deployed logs analyzer tool to assist PMs obtain BI data from Elastic Container Service (ECS)
+
+education:
+  - institution: University of Michigan
+    url: https://cse.umich.edu/
+    area: Computer Science
+    studyType: Master of Science
+    startDate: 2022-01-04
+    endDate: 2023-04-30
+    location: Ann Arbor, MI
+    honors:
+      - 3.8 / 4.0 GPA
+    courses:
+      - Advanced Compilers
+      - Advanced Computer Security
+      - Randomness and Computation
+    highlights:
+  - institution: University of Michigan
+    url: https://umich.edu
+    area: Computer Science
+    studyType: Bachelor of Science
+    startDate: 2018-09-03
+    endDate: 2021-12-22
+    location: Ann Arbor, MI
+    honors:
+      - Summa Cum Laude (3.8 GPA)
+      - Dean's List
+      - University Honors
+    courses:
+      - Distributed Systems
+      - Operating Systems
+      - Programming Languages
+      - Machine Learning
+      - Search Engine Design
+    highlights:
+
+affiliations:
+awards:
+certificates:
+publications:
+
+projects:
+
+skills:
+  - category: Programming
+    skills:
+      - Go
+      - C++
+      - Typescript
+      - Python
+
+languages:
+  - language: English
+    fluency: Native speaker
+
+interests:
+
+references:
