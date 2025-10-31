@@ -50,8 +50,8 @@
 )
 - GPA: 3.8\/4.0
 
-#generic-one-by-two(left: emph("Bachelor of Science, Computer Science"), right: dates-helper(start-date: "Sep 2018", end-date: "Dec 2021"))
-- GPA: 3.8\/4.0, summa cum laude 
+#generic-one-by-two(left: emph("Bachelor of Science, Computer Science"), right: emph(dates-helper(start-date: "Sep 2018", end-date: "Dec 2021")))
+- GPA: 3.8\/4.0 (summa cum laude)
 
 == Work Experience
 
@@ -69,7 +69,7 @@
   location: "San Francisco Bay Area",
   title: "Codepoint Fellow-in-Residence",
 )
-- Two six-month rotations at SHV-backed companies (Observe and Luminary Cloud)
+- Two six-month rotations at SHV-backed companies (Luminary Cloud and Observe)
 
 #work(
   company: "Observe, Inc.",
@@ -130,4 +130,4 @@
 
 == Skills
 
-- *Programming Languages*: Go, Python, Typescript, C++
+- *Programming Languages*: Go, Typescript, Python, C++
